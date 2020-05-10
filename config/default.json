@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "lambdaderuta",
+  "mongoUri": "mongodb+srv://lambdaderuta:qwerty1948@cluster0-nt52j.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
